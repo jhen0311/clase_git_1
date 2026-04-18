@@ -1,1 +1,1 @@
-Hola este es mi primer proyector de git. Esta es la versión definitiva
+Hola este es mi primer proyector de git. Esta es la versión definitiva pero tmb es una ´rueba para mi conflicto
